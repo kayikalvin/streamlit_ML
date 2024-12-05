@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 st.title('🎈 Streamlit_ml')
 st.info('This app creates a machine learning model')
